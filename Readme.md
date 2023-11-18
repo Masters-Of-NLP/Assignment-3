@@ -1,8 +1,8 @@
-### Assignment 3
+## Assignment 3
 Pre-Train Bert Model ("bert-base-uncassed") using MLM and NSP. <br> 
 Then, finetuning the pre-trained models for classification and question-answering tasks.
 
-## Files and Folders<br>
+### Files and Folders<br>
 `pretrainBert.ipynb`: contains the pretraining code for Bert Model using MLM and NSP<br>
 `classification.ipynb`: contains fine tuning for classification and evaluation methods<br>
 `Q&A.ipynb`: contains fine tuning for the QA task<br>
