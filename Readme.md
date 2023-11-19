@@ -11,6 +11,6 @@ Then, finetuning the pre-trained models for classification and question-answerin
 `parameter_calculation.ipynb`: contains the parameters for the pretrainedBert.ipynb, classification.ipynb, Q&A.ipynb <br>
 
 ### Hugging Face link
-`https://huggingface.co/PinkiKumari22` <br>
+[https://huggingface.co/PinkiKumari22]
 
 
