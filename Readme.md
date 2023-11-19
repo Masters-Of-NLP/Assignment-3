@@ -9,3 +9,8 @@ Then, finetuning the pre-trained models for classification and question-answerin
 `QA_evaluation.ipynb`: contains the evaluation metrics for the QA task. <br>
 `documentation.pdf`: the documentation of the work, academic submisssion <br>
 `parameter_calculation.ipynb`: contains the parameters for the pretrainedBert.ipynb, classification.ipynb, Q&A.ipynb <br>
+
+### Hugging Face link
+`https://huggingface.co/PinkiKumari22` <br>
+
+
